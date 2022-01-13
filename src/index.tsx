@@ -42,7 +42,7 @@ createServer({
     this.post('/transactions', (schema, request) => {
       const data = JSON.parse(request.requestBody) // recebe as informações em JSON
 
-      return schema.create('transactions', data) // Cria as informações no banco de dados. Link entre o get e o post
+      return schema.create('transaction', data) // Cria as informações no banco de dados. Link entre o get e o post
     })
   }
 })
