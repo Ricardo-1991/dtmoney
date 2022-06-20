@@ -9,7 +9,7 @@ Sistema feito durante as aulas de ReactJS do curso Ignite - RocketSeat. Funciona
 
 ## :hammer: Funcionalidades do sistema
 
-- `Funcionalidade`: Cadastrar despesas e entradas de recursos.
+- `Funcionalidade`: Cadastrar despesas, entradas e saída de recursos.
 
 <h2>⚙️Tecnologias utilizadas</h2>
 
